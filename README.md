@@ -2,6 +2,8 @@
 
 The getting-started guide for **ThreadX Maintenance Assistant** on the RealWear Navigator, for technicians who have been handed a headset and told to fix a machine.
 
+<img width="850" height="483" alt="image" src="https://github.com/user-attachments/assets/33b0ad77-e924-4ea2-a342-ff9255a9b988" />
+
 **Read it here: https://analogds.github.io/realwear-app-onboarding/**
 
 One self-contained HTML file — every screenshot is embedded, so it renders with no network and
@@ -21,8 +23,3 @@ contains no application source and no configuration.
 The guide is written against the live app, and the app keeps moving. If a screen on your headset
 does not match a picture here, trust the screen — then open an issue on
 `analogds/MSC-RealWear-App` so the guide gets refreshed.
-
-## Visibility
-
-Unlisted, not secret. `robots.txt` and a `noindex` meta tag keep it out of search results, but
-anyone with the link can read it. It contains no passwords or credentials.
