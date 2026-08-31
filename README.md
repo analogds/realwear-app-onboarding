@@ -1,4 +1,4 @@
-# ThreadX onboarding guide
+# Realwear ThreadX onboarding guide
 
 The getting-started guide for **ThreadX Maintenance Assistant** on the RealWear Navigator, for technicians who have been handed a headset and told to fix a machine.
 
