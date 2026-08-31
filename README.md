@@ -2,9 +2,9 @@
 
 The getting-started guide for **ThreadX Maintenance Assistant** on the RealWear Navigator, for technicians who have been handed a headset and told to fix a machine.
 
-<img width="850" height="483" alt="image" src="https://github.com/user-attachments/assets/33b0ad77-e924-4ea2-a342-ff9255a9b988" />
-
 **Read it here: https://analogds.github.io/realwear-app-onboarding/**
+
+<img width="850" height="483" alt="image" src="https://github.com/user-attachments/assets/33b0ad77-e924-4ea2-a342-ff9255a9b988" />
 
 One self-contained HTML file — every screenshot is embedded, so it renders with no network and
 prints to PDF from the browser with `Cmd-P`.
